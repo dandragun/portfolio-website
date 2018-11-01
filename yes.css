@@ -1,15 +1,17 @@
 body {
     font-family: Raleway;
-    background-color: rgb(38, 38, 38);
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
 }
 
 .links {
     float: right;
-    margin: 10px;
+    margin: 5px 0px 0px 2%;
 }
 
 .stuff {
-    background-color: rgb(12, 12, 12); 
+    background-color: rgb(0, 0, 0); 
     padding-bottom: 40px;
 }
 
@@ -24,19 +26,19 @@ a {
 }
 
 
-#perfect1 {
-  width: 33.3333%;
-  margin: 1% 33.3333% 0% 33.3333%;
+
+.second-block {
+    background-color: white;
 }
 
-#perfect1:hover {
-  width: 50%;
-  margin: 0% 27% 0% 27%;
-  transition-duration: 1s;
-}
+.onepicture {
+    background-color: black;
+    margin: 10px 0.5% 0px 0.5%;
+    width: 49%;
+    border-radius: 10px;
 
-.itself {
-  margin: 0% 0% 0% 0%;
-  background-color:rgb(0, 0, 0); 
+}.pictureman {
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
 }
-

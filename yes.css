@@ -1,3 +1,42 @@
 body {
-    
+    font-family: Raleway;
+    background-color: rgb(38, 38, 38);
 }
+
+.links {
+    float: right;
+    margin: 10px;
+}
+
+.stuff {
+    background-color: rgb(12, 12, 12); 
+    padding-bottom: 40px;
+}
+
+.letters {
+  color: whitesmoke;
+  margin: 0% 2% 0% 0%;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+
+#perfect1 {
+  width: 33.3333%;
+  margin: 1% 33.3333% 0% 33.3333%;
+}
+
+#perfect1:hover {
+  width: 50%;
+  margin: 0% 27% 0% 27%;
+  transition-duration: 1s;
+}
+
+.itself {
+  margin: 0% 0% 0% 0%;
+  background-color:rgb(0, 0, 0); 
+}
+
